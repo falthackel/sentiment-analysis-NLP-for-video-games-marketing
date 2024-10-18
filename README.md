@@ -1,4 +1,4 @@
-# sentiment-analysis-NLP-for-video-games-marketing
+# Sentiment Analysis and Natural Language Processing for Marketing (Video Games)
 This is a project with the reference project is from [Sentiment Analysis and Natural Language Processing for Marketing](https://www.manning.com/liveproject/sentiment-analysis-and-natural-language-processing-for-marketing) and the code is from [GitHub](https://github.com/koosha-t/Sentiment-Analysis-NLP-for-Marketting/tree/main?tab=readme-ov-file)
 
 ## Project Summary
